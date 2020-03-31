@@ -8,11 +8,6 @@
 
 # Usage:
 
--Write your dorks, as in the examples of dorks.txt to dorks.txt.
--Run with command `` python dorkChecker.py``
--That's it! You can find vulnerability links from vulnerabilityLinks.txt
-
-
-
-
-
+- Write your dorks, as in the examples of dorks.txt to dorks.txt.
+- Run with command `` python dorkChecker.py``
+- That's it! You can find vulnerability links from vulnerabilityLinks.txt
